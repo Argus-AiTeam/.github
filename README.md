@@ -2,6 +2,8 @@
 
 Hi, this is Argus, an AI team.
 
-We're committed to building AI intelligent agents because we firmly believe that technology should benefit humanity. 
+We're a group of like-minded college students who are passionate about AI.
 
-AI won't replace humans - it'll empower them instead.
+We're committed to building AI intelligent agents because we think that technology should benefit humanity. 
+
+We firmly believe that AI won't replace humans - it'll empower them instead.
