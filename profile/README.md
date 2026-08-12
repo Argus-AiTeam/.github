@@ -8,4 +8,4 @@ We're committed to building AI intelligent agents because we think that technolo
 
 We firmly believe that AI won't replace humans - it'll empower them instead.
 
-To learn more about our projects, please visit [Argus](https://github.com/lbx154/Argus)
+To learn more about our projects, please visit [Argus](https://github.com/lbx154/Argus).
