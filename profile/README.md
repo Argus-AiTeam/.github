@@ -1,6 +1,6 @@
 # Argus
 
-Hi, this is Argus, an AI team.
+Hi, this is Argus, an AI team. [Here is our website](argusbot.cn).
 
 We're a group of like-minded college students who are passionate about AI.
 
