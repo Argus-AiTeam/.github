@@ -103,14 +103,16 @@ available on hardware outside datacenter-scale deployments:
 ### Argus Mathematics · Claims connected to evidence
 
 [Argus Mathematics](https://github.com/Argus-AiTeam/argus-mathematics)
-currently preserves **12 public result packages** across low-dimensional
+currently preserves **17 public result packages** across low-dimensional
 topology and foliations, Riemannian and algebraic geometry, complex analysis
-and harmonic measure, graph theory, convex geometry, beta-transformations
-and Salem numbers, arithmetic dynamics, and braid-group algebra.
+and harmonic measure, geometric group theory and Kleinian groups, set theory,
+lattices and spherical designs, graph theory, convex geometry,
+beta-transformations and Salem numbers, arithmetic dynamics, and braid-group
+algebra.
 
 The archive includes **seven independently runnable verification paths**, one
 Lean-checked logical composition, technical reports, review packages,
-certificates, and checksums for **70 public artifacts**. It explicitly
+certificates, and checksums for **71 public artifacts**. It explicitly
 distinguishes original constructions from literature reconstructions,
 historical negative results, scope corrections, and claims whose novelty has
 not yet been certified.
