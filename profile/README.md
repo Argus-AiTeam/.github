@@ -7,6 +7,7 @@
 ### Building persistent AI systems that extend human capability
 
 [![Website](https://img.shields.io/badge/Website-argusbot.cn-111111?style=for-the-badge)](https://argusbot.cn/)
+[![Download for Windows](https://img.shields.io/badge/Download-Windows_EXE-0078d4?style=for-the-badge&logo=windows11&logoColor=white)](https://github.com/lbx154/Argus/releases/download/v0.1.1/Argus-0.1.1-setup.exe)
 [![Projects](https://img.shields.io/badge/Explore-Projects-2f6feb?style=for-the-badge)](https://argusbot.cn/projects/)
 [![Technical Report](https://img.shields.io/badge/Read-Technical_Report-b8860b?style=for-the-badge)](https://arxiv.org/abs/2608.05144)
 
@@ -29,6 +30,20 @@ mathematical research. Across these domains, we focus on one principle:
 We believe AI should not diminish human agency. It should expand what
 researchers, engineers, and creators are able to understand, build, and
 verify.
+
+## Download Argus
+
+> **Argus 0.1.1 for Windows is available as a one-click desktop installer.**
+>
+> [**Download `Argus-0.1.1-setup.exe`**](https://github.com/lbx154/Argus/releases/download/v0.1.1/Argus-0.1.1-setup.exe)
+> · [Detached signature](https://github.com/lbx154/Argus/releases/download/v0.1.1/Argus-0.1.1-setup.exe.sig)
+> · [Release notes](https://github.com/lbx154/Argus/releases/tag/v0.1.1)
+> · [Get Started](https://argusbot.cn/get-started/)
+
+SHA-256: `6ad1048329bbdfa3c9594f0ba7aa667a864df4b5e5919f31366b6116fedc8923`
+
+The desktop release includes eight native agent backends. Source installation
+tracks the current backend set and is documented in the Get Started guide.
 
 ## Research and engineering
 
