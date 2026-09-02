@@ -117,6 +117,13 @@ distinguishes original constructions from literature reconstructions,
 historical negative results, scope corrections, and claims whose novelty has
 not yet been certified.
 
+Following reports that publicly disclosed Argus materials were republished
+and presented under others' authorship, the archive's original reports, code,
+certificates, analysis, and presentation are now explicitly **All Rights
+Reserved**. Public access does not authorize republication or transfer
+authorship; accurate citation remains welcome. See the
+[rights and license terms](https://github.com/Argus-AiTeam/argus-mathematics/blob/main/LICENSE).
+
 ## How we publish
 
 We aim to make ambitious work easy to inspect and difficult to overstate.
