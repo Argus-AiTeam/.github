@@ -1,6 +1,10 @@
 <div align="center">
 
-<img src="https://avatars.githubusercontent.com/u/315273465?v=4" width="112" alt="Argus AI Team logo">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/argus-mark-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/argus-mark-light.svg">
+  <img src="assets/argus-mark-dark.svg" width="112" alt="Argus AI Team logo">
+</picture>
 
 # ARGUS AI TEAM
 
